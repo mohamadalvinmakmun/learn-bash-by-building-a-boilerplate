@@ -32,3 +32,27 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello terminal
 pwd
 ls --color=auto
+ls --color=auto
+cd
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+cd node_modules
+cd freeCodeCamp
+cd freecodecamp
+ls --color=auto
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd home
+ls --color=auto
+cd gitpod
+ls --color=auto
+cd ..
+cd ..
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
