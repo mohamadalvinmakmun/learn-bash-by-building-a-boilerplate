@@ -188,3 +188,4 @@ touch .gitignore
 cd /workspace/project/website
 touch .gitignore
 ls --color=auto
+ls --color=auto --help
