@@ -97,3 +97,6 @@ pwd
 cd freeCodeCamp
 pwd
 ls --color=auto
+cd /workspace/project/freeCodeCampc
+freeCodeCamp
+cd test
